@@ -11,3 +11,7 @@
 *MENTO*R:NEELA SANTHOSH
 
 ##YOU HAVE ENTER DESCRIOTON OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/86db6ca2-f7dd-4d82-8e37-25fcf528aa5c)
